@@ -15,8 +15,8 @@ The sample application is called myLocations and it allows the user to maintain 
 - [x] [React Router Redux](https://github.com/reactjs/react-router-redux)
 - [x] [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
 - [x] [Material UI](http://www.material-ui.com/)
-- [x] [Local storage](HTML5)
-- [x] [iframe]
+- [x] [Local storage](https://developer.mozilla.org/en/docs/Web/API/Window/localStorage)
+- [x] [iframe](https://www.google.co.il/search?q=iframe)
 
 ## Setup
 
